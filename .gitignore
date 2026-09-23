@@ -1,0 +1,14 @@
+*.exe
+*.out
+*.app
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.o
+*.user
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
